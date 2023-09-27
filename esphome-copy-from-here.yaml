@@ -37,6 +37,7 @@ fan:
   - platform: speed
     output: fanout
     name: "fan-name-here"
+    restore_mode: RESTORE_DEFAULT_ON
 
 # Tachometer pulse
 
